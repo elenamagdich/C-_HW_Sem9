@@ -1,0 +1,15 @@
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5_6_7_8_9\task64_sem9_HW\bin\Debug\net6.0\task64_sem9_HW.exe
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5_6_7_8_9\task64_sem9_HW\bin\Debug\net6.0\task64_sem9_HW.deps.json
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5_6_7_8_9\task64_sem9_HW\bin\Debug\net6.0\task64_sem9_HW.runtimeconfig.json
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5_6_7_8_9\task64_sem9_HW\bin\Debug\net6.0\task64_sem9_HW.dll
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5_6_7_8_9\task64_sem9_HW\bin\Debug\net6.0\task64_sem9_HW.pdb
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5_6_7_8_9\task64_sem9_HW\obj\Debug\net6.0\task64_sem9_HW.csproj.AssemblyReference.cache
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5_6_7_8_9\task64_sem9_HW\obj\Debug\net6.0\task64_sem9_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5_6_7_8_9\task64_sem9_HW\obj\Debug\net6.0\task64_sem9_HW.AssemblyInfoInputs.cache
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5_6_7_8_9\task64_sem9_HW\obj\Debug\net6.0\task64_sem9_HW.AssemblyInfo.cs
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5_6_7_8_9\task64_sem9_HW\obj\Debug\net6.0\task64_sem9_HW.csproj.CoreCompileInputs.cache
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5_6_7_8_9\task64_sem9_HW\obj\Debug\net6.0\task64_sem9_HW.dll
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5_6_7_8_9\task64_sem9_HW\obj\Debug\net6.0\refint\task64_sem9_HW.dll
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5_6_7_8_9\task64_sem9_HW\obj\Debug\net6.0\task64_sem9_HW.pdb
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5_6_7_8_9\task64_sem9_HW\obj\Debug\net6.0\task64_sem9_HW.genruntimeconfig.cache
+C:\Users\elena\Desktop\C#_Sem1_2_3_4_5_6_7_8_9\task64_sem9_HW\obj\Debug\net6.0\ref\task64_sem9_HW.dll
